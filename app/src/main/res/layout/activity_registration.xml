@@ -110,18 +110,51 @@
         app:layout_constraintTop_toBottomOf="@+id/etPassword" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/ic_android_black_24dp"
-        tools:layout_editor_absoluteX="126dp"
-        tools:layout_editor_absoluteY="561dp" />
+        app:srcCompat="@drawable/ic_person_black_24dp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="37dp" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/imageView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/ic_warning_black_24dp"
-        tools:layout_editor_absoluteX="227dp"
-        tools:layout_editor_absoluteY="523dp" />
+        app:srcCompat="@drawable/ic_person_black_24dp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="114dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_email_black_24dp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="187dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_pin_drop_black_24dp"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="258dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_pin_drop_black_24dp"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="353dp" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_assignment_turned_in_black_24dp"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="466dp" />
+
 </android.support.constraint.ConstraintLayout>
